@@ -1,2 +1,8 @@
 Git dan Github merupakan 2 hal yang berbeda 
 Apa itu Git menurut wikipedia Git adalah " Version Control System, di sebut juga Revisi Control System/ Source Code Management yang sistemnya dapat mengelola perubahan dari sebuah dockument,program komputer,website dan kumpulan Informasi lain".
+
+Kesimpulan VCS
+-Sebuah sistem yang menyimpan rekaman atau snapshot perubahan pada source code.
+-Memungkinkan bekerja berkolaborasi dengan baik.
+-Mengetahui siapa yang melakukan siapa yang melakukan perubahan kapan perubahan itu terjadi.
+Kita juga dapat kembali ke keadaan sebelum perubahan ( Checkout ).
